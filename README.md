@@ -33,7 +33,7 @@ I turn business needs into working software — web and mobile apps, backend sys
     <td width="50%" valign="top">
       <a href="https://github.com/MishalTouhiri/ToDo"><img src="assets/projects/todomonth.webp" alt="TodoMonth"></a>
       <h3>✅ <a href="https://github.com/MishalTouhiri/ToDo">TodoMonth</a></h3>
-      Plan a month week by week — progress ring, swipe to delete with undo, saved tasks, light/dark, Arabic &amp; English.<br>
+      Plan a month week by week — progress ring, swipe to delete with undo, saved tasks, light/dark, Arabic &amp; English. <a href="https://mishaltouhiri.github.io/ToDo/"><b>Live demo →</b></a><br>
       <sub><b>Flutter · Dart · Material 3 · Widget tests</b></sub>
     </td>
   </tr>
