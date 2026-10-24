@@ -16,7 +16,7 @@
 I turn business needs into working software — web and mobile apps, backend systems, and **Odoo ERP** with custom integrations and approval workflows.
 
 - 💼 **IT Specialist @ Droua Alsaoud Company** — leading the Odoo ERP rollout and the Zid–Odoo integration
-- 🛠️ Before that: **Development Technical Supervisor** @ Whiteland · **Software Engineer (volunteer)** @ Bedar Charity · **Mobile Developer intern** @ The Garage
+- 🛠️ Before that: **Software Engineer (volunteer)** @ Bedar Charity · **Mobile Developer intern** @ The Garage
 - 🎓 **B.Sc. Information Technology** — Jazan University
 - 🌍 Arabic (native) · English
 
