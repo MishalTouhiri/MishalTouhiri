@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://my-portfolio-one-phi-92.vercel.app">
+  <a href="https://mishaltouhiri.vercel.app">
     <img src="assets/header.svg" width="100%" alt="Mishal Touhiri — Software Engineer · IT Specialist">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://my-portfolio-one-phi-92.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://mishaltouhiri.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/%D9%85%D8%B4%D8%B9%D9%84-%D8%B7%D9%88%D9%87%D8%B1%D9%8A-110705243/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/dev_Mishal"><img src="https://img.shields.io/badge/X-@dev__Mishal-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:MishalTouhiri@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-059669?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -74,6 +74,6 @@ I turn business needs into working software — web and mobile apps, backend sys
 <div align="center" dir="rtl">
 
 **مشعل طوهري** — مهندس برمجيات وأخصائي تقنية معلومات. أبني تطبيقات الويب والجوال والأنظمة الخلفية، وأطبّق Odoo مع تكاملات وسير موافقات مخصّصة.<br>
-📫 <a href="mailto:MishalTouhiri@gmail.com">MishalTouhiri@gmail.com</a> · <a href="https://my-portfolio-one-phi-92.vercel.app">البورتفوليو</a>
+📫 <a href="mailto:MishalTouhiri@gmail.com">MishalTouhiri@gmail.com</a> · <a href="https://mishaltouhiri.vercel.app">البورتفوليو</a>
 
 </div>
