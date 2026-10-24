@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://mishaltouhiri.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/%D9%85%D8%B4%D8%B9%D9%84-%D8%B7%D9%88%D9%87%D8%B1%D9%8A-110705243/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/mishaltouhiri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/dev_Mishal"><img src="https://img.shields.io/badge/X-@dev__Mishal-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:MishalTouhiri@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-059669?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
